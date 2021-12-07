@@ -9,6 +9,6 @@
 Занимаюсь маркетинговой аналитикой, но в портфолио есть много других проектов! 
 В то числе и по <a href='https://github.com/anigmatyanov/first_notebook'>машинному обучению</a> 
 
-### Мои проекты собираются здесь
+### Мои лучшие проекты собираются здесь
 * <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика для Яндекс.Афиши</a> 
 * <a href='https://github.com/anigmatyanov/bank_project'>Анализ надежности заемщиков</a> 
