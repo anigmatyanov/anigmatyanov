@@ -7,7 +7,7 @@
 
 *2. Специализация* <br>
 Занимаюсь маркетинговой аналитикой, но в портфолио есть много других проектов! 
-В то числе и по <a href='https://github.com/anigmatyanov/fitness_clients'>машинному обучению</a> 
+В том числе и по <a href='https://github.com/anigmatyanov/fitness_clients'>машинному обучению</a> 
 
 ### Мои лучшие проекты собираются здесь
 * <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика</a> 
