@@ -7,13 +7,13 @@
 
 *2. Специализация* <br>
 Занимаюсь маркетинговой аналитикой, но в портфолио есть много других проектов! 
-В то числе и по <a href='https://github.com/anigmatyanov/first_notebook'>машинному обучению</a> 
+В то числе и по <a href='https://github.com/anigmatyanov/fitness_clients'>машинному обучению</a> 
 
 ### Мои лучшие проекты собираются здесь
-* <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика для Яндекс.Афиши</a> 
-* <a href='https://github.com/anigmatyanov/bank_clients'>Отток клиентов банка</a> 
+* <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика</a> 
+* <a href='https://github.com/anigmatyanov/bank_clients'>Продуктовая аналитика</a> 
+* <a href='https://github.com/anigmatyanov/fitness_clients'>Базовое машинное обучение</a>
 
 ### Мои аналитические презентации 
 * <a href='https://disk.yandex.ru/i/9zAXxlmz7ZznTQ'>Рынок заведений общественного питания</a> 
 * <a href='https://disk.yandex.ru/d/hKdpoJNGK98mRg'>Отток клиентов</a> 
-
