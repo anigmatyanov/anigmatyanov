@@ -11,4 +11,8 @@
 
 ### Мои лучшие проекты собираются здесь
 * <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика для Яндекс.Афиши</a> 
-* <a href='https://github.com/anigmatyanov/bank_project'>Анализ надежности заемщиков</a> 
+* <a href='https://github.com/anigmatyanov/bank_clients'>Отток клиентов банка</a> 
+
+### Мои аналитические презентации 
+* <a href='https://disk.yandex.ru/d/hKdpoJNGK98mRg'>Отток клиентов</a> 
+* <a href='https://disk.yandex.ru/i/9zAXxlmz7ZznTQ'>Рынок заведений общественного питания</a> 
