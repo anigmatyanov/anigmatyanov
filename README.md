@@ -13,9 +13,11 @@
 * <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика</a> 
 * <a href='https://github.com/anigmatyanov/bank_clients'>Продуктовая аналитика</a> 
 * <a href='https://github.com/anigmatyanov/ab-test'>Анализ A/B-тестирования</a> 
+* <a href='https://github.com/anigmatyanov/sql_books'>Составление SQL-запросов</a> 
 * <a href='https://github.com/anigmatyanov/fitness_clients'>Продвинутая визуализация</a>
 * <a href='https://github.com/anigmatyanov/fitness_clients'>Базовое машинное обучение</a>
 
 ### Мои аналитические презентации 
 * <a href='https://disk.yandex.ru/i/9zAXxlmz7ZznTQ'>Рынок заведений общественного питания</a> 
 * <a href='https://disk.yandex.ru/d/hKdpoJNGK98mRg'>Отток клиентов</a> 
+
