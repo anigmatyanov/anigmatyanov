@@ -12,6 +12,7 @@
 ### Мои лучшие проекты собираются здесь
 * <a href='https://github.com/anigmatyanov/marketing_analytics'>Маркетинговая аналитика</a> 
 * <a href='https://github.com/anigmatyanov/bank_clients'>Продуктовая аналитика</a> 
+* * <a href='https://github.com/anigmatyanov/fitness_clients'>Продвинутая визуализация</a>
 * <a href='https://github.com/anigmatyanov/fitness_clients'>Базовое машинное обучение</a>
 
 ### Мои аналитические презентации 
